@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "2926539E6B9ED4E73FA8DE215DC3100DD29AD3DE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "FB177F1E7BD929C7B448509A02EA52661957E2CE" : 0,
+    "2926539E6B9ED4E73FA8DE215DC3100DD29AD3DE" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "1F828CE9-F4D4-4234-808D-7E52CA958E53",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "FB177F1E7BD929C7B448509A02EA52661957E2CE" : "..",
+    "2926539E6B9ED4E73FA8DE215DC3100DD29AD3DE" : "pakmaker\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "PakMaker",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "PakMaker.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:cdave1\/hdk-pakmaker-v1.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2926539E6B9ED4E73FA8DE215DC3100DD29AD3DE"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/cdave1\/hdTech1.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FB177F1E7BD929C7B448509A02EA52661957E2CE"
+    }
+  ]
+}

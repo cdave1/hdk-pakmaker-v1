@@ -21,8 +21,8 @@
 #define PAK_PROJECT_LOADER_H
 
 #include <stdio.h>
-#include "hdCommon.h"
-#include "hdPakFileSystem.h"
+#include <hdk/hdk.h>
+//#include "hdPakFileSystem.h"
 
 extern void PakLoader_CreatePak(const char* dest, const char* pakFileListFile, const char *destDir);
 

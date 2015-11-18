@@ -58,7 +58,7 @@ void PakLoader_TestPak(const char* baseDir, const char *testFile)
     hdAssert(strncmp(pakBuf, realBuf, realLen) == 0);
 
     printf("PakLoader test passed for: %s\n", testFile);
-    
+
     FileSystem_Teardown();
     [pool drain];
 }
