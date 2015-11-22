@@ -21,6 +21,7 @@
 #define PAK_PROJECT_LOADER_H
 
 #include <stdio.h>
+#include "hdCommon.h"
 #include <hdk/hdk.h>
 //#include "hdPakFileSystem.h"
 

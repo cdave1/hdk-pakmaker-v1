@@ -290,21 +290,12 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = E4F587D61BFD19CE004E59F2 /* paths_osx.xcconfig */;
 			buildSettings = {
-				ALWAYS_SEARCH_USER_PATHS = NO;
 				COPY_PHASE_STRIP = NO;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_ENABLE_FIX_AND_CONTINUE = YES;
 				GCC_MODEL_TUNING = G5;
 				GCC_OPTIMIZATION_LEVEL = 0;
-				HEADER_SEARCH_PATHS = (
-					/usr/local/include,
-					"$(inherited)",
-				);
 				INSTALL_PATH = /usr/local/bin;
-				LIBRARY_SEARCH_PATHS = (
-					"$(inherited)",
-					/usr/local/Cellar/boost/1.55.0_1/lib,
-				);
 				PRODUCT_NAME = PakMaker;
 			};
 			name = Debug;
@@ -313,18 +304,9 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = E4F587D61BFD19CE004E59F2 /* paths_osx.xcconfig */;
 			buildSettings = {
-				ALWAYS_SEARCH_USER_PATHS = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_MODEL_TUNING = G5;
-				HEADER_SEARCH_PATHS = (
-					/usr/local/include,
-					"$(inherited)",
-				);
 				INSTALL_PATH = /usr/local/bin;
-				LIBRARY_SEARCH_PATHS = (
-					"$(inherited)",
-					/usr/local/Cellar/boost/1.55.0_1/lib,
-				);
 				PRODUCT_NAME = PakMaker;
 			};
 			name = Release;
