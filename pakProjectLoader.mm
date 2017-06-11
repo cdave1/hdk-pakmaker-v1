@@ -24,6 +24,7 @@
 
 void PakLoader_CreatePak(const char* baseDir, const char* pakManifestFileName, const char *destDir)
 {
+    fprintf(stderr, "%s", pakManifestFileName);
     NSAutoreleasePool *pool;
     pool = [[NSAutoreleasePool alloc] init];
     FileSystem_Init(baseDir);
